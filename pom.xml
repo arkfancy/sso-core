@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.arkfancy.sso</groupId>
 	<artifactId>sso-core</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>sso-core</name>
 	<description>sso core</description>
 
@@ -40,13 +40,13 @@
 
 	</dependencies>
 
-	<build>
+	<!-- <build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-	</build>
+	</build> -->
 
 </project>
